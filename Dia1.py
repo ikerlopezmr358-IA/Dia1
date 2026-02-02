@@ -1,4 +1,4 @@
 # Dia1
-Mi primer hola, mundo
+# Mi primer hola, mundo
 
-print=("hola mundo")
+print("hola mundo")
